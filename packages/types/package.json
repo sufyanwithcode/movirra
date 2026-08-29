@@ -1,0 +1,13 @@
+{
+  "name": "@movirra/types",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Shared TypeScript DTO contracts",
+  "scripts": {
+    "dev": "echo '[@movirra/types] not implemented yet — see ARCHITECTURE.md roadmap'",
+    "build": "echo '[@movirra/types] build: pending'",
+    "lint": "echo '[@movirra/types] lint: pending'",
+    "test": "echo '[@movirra/types] test: pending'",
+    "typecheck": "echo '[@movirra/types] typecheck: pending'"
+  }
+}

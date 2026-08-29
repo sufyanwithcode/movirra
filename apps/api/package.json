@@ -1,0 +1,13 @@
+{
+  "name": "@movirra/api",
+  "version": "0.0.1",
+  "private": true,
+  "description": "NestJS backend — REST + WebSockets (Phase 5+)",
+  "scripts": {
+    "dev": "echo '[@movirra/api] not implemented yet — see ARCHITECTURE.md roadmap'",
+    "build": "echo '[@movirra/api] build: pending'",
+    "lint": "echo '[@movirra/api] lint: pending'",
+    "test": "echo '[@movirra/api] test: pending'",
+    "typecheck": "echo '[@movirra/api] typecheck: pending'"
+  }
+}

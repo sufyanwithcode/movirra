@@ -1,0 +1,13 @@
+{
+  "name": "@movirra/worker",
+  "version": "0.0.1",
+  "private": true,
+  "description": "BullMQ background jobs (Phase 9+)",
+  "scripts": {
+    "dev": "echo '[@movirra/worker] not implemented yet — see ARCHITECTURE.md roadmap'",
+    "build": "echo '[@movirra/worker] build: pending'",
+    "lint": "echo '[@movirra/worker] lint: pending'",
+    "test": "echo '[@movirra/worker] test: pending'",
+    "typecheck": "echo '[@movirra/worker] typecheck: pending'"
+  }
+}

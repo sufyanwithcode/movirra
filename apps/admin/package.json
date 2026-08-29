@@ -1,0 +1,13 @@
+{
+  "name": "@movirra/admin",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Admin dashboard (Phase 12)",
+  "scripts": {
+    "dev": "echo '[@movirra/admin] not implemented yet — see ARCHITECTURE.md roadmap'",
+    "build": "echo '[@movirra/admin] build: pending'",
+    "lint": "echo '[@movirra/admin] lint: pending'",
+    "test": "echo '[@movirra/admin] test: pending'",
+    "typecheck": "echo '[@movirra/admin] typecheck: pending'"
+  }
+}

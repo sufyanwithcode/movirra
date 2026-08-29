@@ -1,0 +1,13 @@
+{
+  "name": "@movirra/database",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Prisma schema, migrations, seed (Phase 6)",
+  "scripts": {
+    "dev": "echo '[@movirra/database] not implemented yet — see ARCHITECTURE.md roadmap'",
+    "build": "echo '[@movirra/database] build: pending'",
+    "lint": "echo '[@movirra/database] lint: pending'",
+    "test": "echo '[@movirra/database] test: pending'",
+    "typecheck": "echo '[@movirra/database] typecheck: pending'"
+  }
+}

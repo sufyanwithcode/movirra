@@ -1,0 +1,13 @@
+{
+  "name": "@movirra/eslint-config",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Shared ESLint config",
+  "scripts": {
+    "dev": "echo '[@movirra/eslint-config] not implemented yet — see ARCHITECTURE.md roadmap'",
+    "build": "echo '[@movirra/eslint-config] build: pending'",
+    "lint": "echo '[@movirra/eslint-config] lint: pending'",
+    "test": "echo '[@movirra/eslint-config] test: pending'",
+    "typecheck": "echo '[@movirra/eslint-config] typecheck: pending'"
+  }
+}
