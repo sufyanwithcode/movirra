@@ -81,7 +81,7 @@ function Posters({ reduced }: { reduced: boolean }) {
   return (
     <>
       {POSTERS.map((p, i) => (
-        <PosterCard key={p.id} poster={p} texture={textures[i]} reduced={reduced} />
+        <PosterCard key={p.id} poster={p} texture={textures[i]!} reduced={reduced} />
       ))}
     </>
   );
